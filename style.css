@@ -1,0 +1,145 @@
+.hader{
+    background-color:#101446 ;
+    padding: 10px 0;
+}
+.hader-logo img{
+    width: 100px;
+    height: auto;
+}
+
+.primary-manu ul{
+    margin-bottom: 0;
+    text-align: right;
+}
+.primary-manu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.primary-manu ul li a{
+    display: block;
+    color: white;
+    padding: 0 20px;
+    font-size: 15px;
+    line-height: 65px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+/* baner sction */
+.baner{
+    background-image: url(./intro-bg.jpg);
+    padding: 300px 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    color: white;
+    
+}
+.baner-text p{
+    margin: 66px 0; 
+}
+.baner-text span a{
+    text-decoration: none;
+    color: white;
+    background-color: #337ab7;
+    padding: 7px 15px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 35px;
+}
+/* our teem */
+.our-teem{
+    background-color: #bac1f3;
+    text-align: center;
+    padding: 65px 0;
+    line-height: 20px;
+}
+.our-teem h1{
+    font-size: 65px;
+    margin-bottom: 45px;
+}
+.our-teem p{
+    width: 150px;
+    margin: auto;
+}
+.teem-1{
+    margin-left: -150px;
+}
+button{
+    background-color: #337ab7;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    margin-top: 25px;
+}
+
+/* about us */
+.about{
+    background-color: #c2d4ea;
+    padding: 65px 0;
+}
+.about h1{
+    padding: 55px 0;
+    font-size: 55px;
+    text-align: center;
+}
+.about-text{
+    margin-left: -70px;
+    line-height: 20px;
+}
+.about-text2{
+    width: 550px;
+    margin-top: 15px;
+    /* margin: auto; */
+}
+/* countc us */
+.countuc{
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 60px 0;
+}
+.countuc h1{
+    font-size: 54px;
+    padding-bottom: 35px;
+}
+
+.from{
+    text-align: left;
+    margin-top: -10px;
+    margin-left: 5px;
+    line-height: 35px;
+}
+.from b{
+    font-size: 20px;
+    line-height: 25px;
+}
+.button2{
+    background-color: #5bc0de;
+    color: white;
+    font-size: 20px;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 5px;
+
+}
+/* footer */
+.fotter{
+    background-color: #0062d3;
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+}
+.foter-lust{
+    width: 491px;
+    margin: auto;
+    font-size: 25px;
+}
+.foter-lust p{
+    padding: 35px 0;
+}
+.foter-lust a{
+    color: white;
+    text-decoration: none;
+}
